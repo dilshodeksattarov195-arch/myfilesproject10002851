@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercync",
+        "uuid": 27418067,
+        "checksum": "91wgtl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
